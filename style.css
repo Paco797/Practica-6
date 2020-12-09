@@ -1,0 +1,34 @@
+body{
+    background-color: hsl(67, 10%, 75%);
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+header{
+    color:hsl(240, 65%, 25%);
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 50px;
+}
+h2{
+    background-color: hsl(68, 30%, 30%);
+    color: white;
+    clear: both;
+}
+img.izq{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+p.centrado{
+    text-align: center;
+}
+span{
+    font-weight: bold;
+}
+img.der{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
